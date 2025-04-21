@@ -1,0 +1,8 @@
+OpenCV Version: 4.11.0
+CVZone Version: 1.6.1
+OS Module: Built-in (No Version)
+Random Module: Built-in (No Version)
+Tkinter Version: 8.6
+PIL (Pillow) Version: 11.1.0
+NumPy Version: 1.26.4
+Mediapipe Version: 0.10.21
